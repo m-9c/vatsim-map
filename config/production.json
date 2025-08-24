@@ -26,6 +26,7 @@
                 "BN-ISA_CTR",
                 "BN-INL_CTR",
                 "BN-ARL_CTR",
+                "BN-KPL_CTR",
                 "ML-OLW_CTR",
                 "ML-ASP_CTR",
                 "ML-TBD_CTR",
