@@ -16,8 +16,7 @@
             "AYPM",
             "BRISBANE_FIR",
             "MELBOURNE_FIR",
-            "NFFF-A",
-            "NFFF-B"
+            "NFFF-A"
         ],
         "sectors": {
             "standard": [
@@ -26,6 +25,7 @@
                 "BN-ISA_CTR",
                 "BN-INL_CTR",
                 "BN-ARL_CTR",
+                "BN-MNN_CTR",
                 "BN-KPL_CTR",
                 "ML-OLW_CTR",
                 "ML-ASP_CTR",
@@ -39,9 +39,7 @@
                 "ML-MUN_CTR",
                 "ML-WOL_CTR",
                 "NFFF_FSS",
-                "NWWW_CTR",
-                "AYPM_CTR",
-                "NVVV_CTR"
+                "AYPM_CTR"
             ],
             "border": [
                 "NZZO_FSS",
@@ -70,7 +68,8 @@
             "YBCS",
             "YSCB",
             "YMHB",
-            "YPDN"
+            "YPDN",
+            "YSWS"
         ]
     },
     "data": {
